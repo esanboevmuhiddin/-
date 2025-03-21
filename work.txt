@@ -1,0 +1,29 @@
+1. Изменение оценки
+Метод: PATCH
+URL: https://edmpziwtsqmflundetim.supabase.co/rest/v1/grade?id=eq.1
+Тело запроса: { "grades": 5 }
+2. Добавление новой работы
+Метод: POST
+URL: https://edmpziwtsqmflundetim.supabase.co/rest/v1/assignments
+Тело запроса: 
+{
+  "name": "Практическая N3",
+  "author_id": 1,
+  "teacher_id": 1,
+  "grade": "4",
+  "description": null,
+  "subject": "математика",
+  "body": "Ответы: 1 - б, 2 - г"
+}
+3. Добавление нового пользователя
+Метод: POST
+URL: https://edmpziwtsqmflundetim.supabase.co/rest/v1/users
+Тело запроса: 
+{
+  "id": 4,
+  "name": "Ivanov V.D",
+  "group": null
+}
+4. Получить список всех оценок, выше заданной
+Метод: GET
+URL: https://edmpziwtsqmflundetim.supabase.co/rest/v1/grade?grades.gt.2
