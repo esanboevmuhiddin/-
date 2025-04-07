@@ -1,0 +1,2 @@
+URL - https://zvmvspbkdokltdcmnaha.supabase.co
+Api key - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp2bXZzcGJrZG9rbHRkY21uYWhhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDMyNDUwNDcsImV4cCI6MjA1ODgyMTA0N30.WvOoSPvkRSOUgRYmtTlN_e1aXr_ebE9f1EWczEcWjNo
